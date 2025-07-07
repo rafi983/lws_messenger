@@ -1,4 +1,4 @@
-# LWS Chat Application
+# LWS Messenger
 
 A modern, real-time chat application built with React, Redux Toolkit, and Socket.IO. This application provides a seamless messaging experience with user authentication, real-time updates, and a responsive UI.
 
